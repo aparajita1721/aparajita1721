@@ -3,7 +3,7 @@ I’m a Master’s student in Computer Science, specializing in Data Science, wi
 I enjoy digging into data, finding patterns, and using machine learning to solve real problems. Lately, I’ve been
 especially interested in how Generative AI and NLP can improve the way people interact with technology, like
 building smarter, more helpful chatbots.
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages  
 🐍 [Python](https://www.python.org/)  
